@@ -1,10 +1,10 @@
 name: bottom_nav_speed_dial
 description: "Bottom navigation + speed dial widget with customizable UI, overlays, and animations."
 version: 1.0.0
-homepage: # TODO: Add your package's homepage URL.
-repository: # TODO: Add your package's repository URL.
-issue_tracker: # TODO: Add your issue tracker URL.
-documentation: # TODO: Add your documentation URL.
+homepage: https://github.com/hafizijaz656/bottom_nav_speed_dial
+repository: https://github.com/hafizijaz656/bottom_nav_speed_dial.git
+issue_tracker: https://github.com/hafizijaz656/bottom_nav_speed_dial/issues
+documentation: https://github.com/hafizijaz656/bottom_nav_speed_dial/blob/main/README.md
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
