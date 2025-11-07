@@ -1,0 +1,40 @@
+name: bottom_nav_speed_dial
+description: "Bottom navigation + speed dial widget with customizable UI, overlays, and animations."
+version: 1.0.0
+homepage: # TODO: Add your package's homepage URL.
+repository: # TODO: Add your package's repository URL.
+issue_tracker: # TODO: Add your issue tracker URL.
+documentation: # TODO: Add your documentation URL.
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+
+# Pub.dev metadata
+screenshots:
+  - path: assets/Screenshot_20251107_180008.png
+    description: Demo of Bottom Nav Speed Dial with dialer overlay
+
+topics:
+  - flutter
+  - bottom-navigation
+  - speed-dial
+  - widget
+  - ui
