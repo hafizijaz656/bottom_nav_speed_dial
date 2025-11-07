@@ -135,6 +135,12 @@ flutter run
 ## Contributing
 Issues, feature requests, and pull requests are welcome. Please open an issue if you encounter a bug or have an idea to improve the package. We’re open for collaboration.
 
+## Support
+If this package helps you, consider supporting the project:
+
+```
+☕ Buy me a coffee: https://www.buymeacoffee.com/your-handle
+```
 
 ## Contact
 - Email: hafizijaz656@gmail.com
