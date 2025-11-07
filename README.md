@@ -143,9 +143,9 @@ If this package helps you, consider supporting the project:
 ```
 
 ## Contact
-- Email: your-email@example.com
-- Twitter/X: https://twitter.com/your-handle
-- Website: https://your-website.example
+- Email: hafizijaz656@gmail.com
+- Instagram: @hafizijaz1996
+- Website: https://hafiz-ijaz-ul-hassan.web.app/
 
 ## License
 This package is licensed under the MIT License. See `LICENSE` for details.
